@@ -1,0 +1,8 @@
+{
+    "name": "dr-ubin/google-datatable-php",
+	"autoload": {
+		"psr-0": {
+			"Drubin\\GoogleDataTable\\": "src/"
+		}
+	}
+}
